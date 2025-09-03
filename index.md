@@ -14,4 +14,4 @@ I graduated from [Department of Computer Engineering](https://cpe.ku.ac.th/) at 
 
 I also used to work on Machine Learning, Data Science, and [Brain-Controlled Interfaces (BCIs)](https://www.youtube.com/watch?v=2vgEp-KG3wc) in several settings, from business, academic, to research.
 
-On a more "presonal" side of life, I am a father of [HugHug the Cavalier](https://instagram.com/ihughugyou), enjoy tinkering my home with Smart Home and 3D printing, is a coffee and tea snob, and likes eating a lot.
+On a more "personal" side of life, I am a father of [HugHug the Cavalier](https://instagram.com/ihughugyou), enjoy tinkering my home with Smart Home and 3D printing, is a coffee and tea snob, and likes eating a lot.
